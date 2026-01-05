@@ -1,0 +1,15 @@
+flask
+pytesseract
+opencv-python
+pdf2image
+pypdf
+reportlab
+Pillow
+numpy
+requests
+python-multipart
+# Optional (speech and NLP enhancements):
+vosk
+spacy
+transformers
+torch
