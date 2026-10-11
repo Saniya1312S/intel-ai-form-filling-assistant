@@ -1,0 +1,9 @@
+/* Custom styles for improved UI */
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+.navbar-brand { font-weight:700; }
+#drop-zone { background: linear-gradient(180deg, #ffffff, #fbfdff); cursor:pointer; }
+#drop-zone:hover { box-shadow: 0 6px 18px rgba(20,40,80,0.06); }
+#fields-wrap { min-height: 220px; }
+#fields-form .form-control { box-shadow: none; }
+.card-title { font-weight:600; }
+pre#raw-text { background:#f8f9fa; padding:12px; border-radius:6px; }
